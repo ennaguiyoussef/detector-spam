@@ -8,6 +8,12 @@ The project is divided into two main parts:
 
 ---
 
+## Dashboard 
+
+![img.png](img.png)
+
+---
+
 ## 🧠 Model Architecture & Details
 
 The classification pipeline consists of two main stages: Text Vectorization (FastText) and Classification (MLP).
