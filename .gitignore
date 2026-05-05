@@ -1,0 +1,6 @@
+# models
+*.npy
+*.model
+*.pkl
+
+# data
