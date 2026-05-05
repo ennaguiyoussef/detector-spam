@@ -10,7 +10,7 @@ The project is divided into two main parts:
 
 ## Dashboard 
 
-![img.png](img.png)
+![img.png](assets/img.png)
 
 ---
 
